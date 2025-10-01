@@ -2,3 +2,4 @@ jupyter
 torch
 numpy
 pandas
+matplotlib
